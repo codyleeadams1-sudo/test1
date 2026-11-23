@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "SES",
+    " C "
+  ],
+  "key": {
+    "I": "minecraft:ink_sac",
+    "E": "minecraft:egg",
+    "S": "minecraft:snowball",
+    "C": "minecraft:cod"
+  },
+  "result": {
+    "id": "gugugaga_penguin:gugugaga_penguin_spawn_egg",
+    "count": 1
+  }
+}

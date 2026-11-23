@@ -1,0 +1,60 @@
+{
+  "mob.gugugaga.idle": {
+    "sounds": [
+      {
+        "name": "gugugaga_penguin:maid/mode/idle1"
+      },
+      {
+        "name": "gugugaga_penguin:maid/mode/idle2"
+      },
+      {
+        "name": "gugugaga_penguin:maid/mode/idle3"
+      },
+      {
+        "name": "gugugaga_penguin:maid/mode/idle4"
+      },
+      {
+        "name": "gugugaga_penguin:maid/mode/idle5"
+      },
+      {
+        "name": "gugugaga_penguin:maid/mode/idle6"
+      },
+      {
+        "name": "gugugaga_penguin:maid/mode/idle7"
+      }
+    ]
+  },
+  "mob.gugugaga.hurt": {
+    "sounds": [
+      {
+        "name": "gugugaga_penguin:maid/ai/hurt1"
+      },
+      {
+        "name": "gugugaga_penguin:maid/ai/hurt2"
+      },
+      {
+        "name": "gugugaga_penguin:maid/ai/hurt3"
+      },
+      {
+        "name": "gugugaga_penguin:maid/ai/hurt4"
+      }
+    ]
+  },
+  "mob.gugugaga.death": {
+    "sounds": [
+      {
+        "name": "gugugaga_penguin:maid/ai/death1"
+      },
+      {
+        "name": "gugugaga_penguin:maid/ai/death2"
+      }
+    ]
+  },
+  "mob.gugugaga.cry": {
+    "sounds": [
+      {
+        "name": "gugugaga_penguin:maid/ai/cry"
+      }
+    ]
+  }
+}
