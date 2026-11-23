@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        maven { name = 'Fabric'; url = 'https://maven.fabricmc.net/' }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft'

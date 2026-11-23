@@ -1,0 +1,60 @@
+{
+  "mob.gugugaga.idle": {
+    "sounds": [
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle1"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle2"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle3"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle4"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle5"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle6"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/mode/idle7"
+      }
+    ]
+  },
+  "mob.gugugaga.hurt": {
+    "sounds": [
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/hurt1"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/hurt2"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/hurt3"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/hurt4"
+      }
+    ]
+  },
+  "mob.gugugaga.death": {
+    "sounds": [
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/death1"
+      },
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/death2"
+      }
+    ]
+  },
+  "mob.gugugaga.cry": {
+    "sounds": [
+      {
+        "name": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft:maid/ai/cry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft",
+  "version": "1.0.0",
+  "name": "B Gugugaga Penguin Bp A Full Version English Version E By Dlt Craft",
+  "description": "Ported from a Bedrock addon with bedrock2java.",
+  "authors": [
+    "bedrock2java"
+  ],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.bedrockport.b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft.PortedContent"
+    ],
+    "client": [
+      "com.bedrockport.b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft.PortedContentClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "icon": "assets/b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft/icon.png"
+}

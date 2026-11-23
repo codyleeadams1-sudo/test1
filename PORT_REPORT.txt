@@ -1,0 +1,25 @@
+bedrock2java - port report
+============================
+mod id: b_gugugaga_penguin_bp_a_full_version_english_version_e_by_dlt_craft
+
+Converted:
+  loot tables: 1
+  recipes: 1
+  sound files: 14
+  sound events: 4
+
+Warnings:
+  - no custom items or blocks found - only resources (textures/sounds/lang) will be ported
+
+Not converted / ignored (needs hand work or a later version of this tool):
+  not ported:
+    - JavaScript scripts: 1 file(s)
+    - client entities: 1 file(s)
+    - entities (AI/behaviour): 1 file(s)
+    - entity custom:gugugaga_penguin: components minecraft:type_family, minecraft:variant, minecraft:health, minecraft:movement, minecraft:inventory, minecraft:navigation.walk
+    - mcfunctions: 1 file(s)
+    - spawn rules: 1 file(s)
+
+Target: fabric 1.21.11
+Build: upload this project (or the zip contents) to a GitHub repo; the included workflow
+builds it. Download the jar from Actions -> build -> Artifacts.
